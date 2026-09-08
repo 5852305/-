@@ -1,0 +1,8 @@
+{
+  "name": "DebtFree",
+  "description": "A smart debt management tool to track debts, visualize amortization, and plan for financial freedom.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
